@@ -1,6 +1,6 @@
 The advanced scientific calculator performs various operations: 
 calculating the-> 
-Markup: * sum
+Markup: ..* sum..
                   * differnce
                   * product
                   * division
