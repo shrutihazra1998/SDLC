@@ -9,6 +9,10 @@ calculating the-> sum
                   sine
                   cosine
                   tan, etc.
+   Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
                   
 It is equipped with a special feature to calculate the sum of all numbers till the last input.
 ![C/C++ CI](https://github.com/99002643/SDLC/workflows/C/C++%20CI/badge.svg)
