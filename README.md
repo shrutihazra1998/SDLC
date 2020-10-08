@@ -1,4 +1,6 @@
 The advanced scientific calculator performs various operations: 
+
+
 calculating the-> SUM, DIFFERENCE, PRODUCT, DIVISION, FACTORIAL, POWER, SQUARE ROOT, sINE, COSINE, TAN, etc. 
   
                   
