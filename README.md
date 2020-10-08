@@ -1,15 +1,5 @@
 The advanced scientific calculator performs various operations: 
-calculating the-> 
-Markup: ..* sum..
-                  * differnce
-                  * product
-                  * division
-                  * factorial
-                  * power
-                  * square root
-                  * sine
-                  * cosine
-                  * tan, etc.
+calculating the-> SUM, DIFFERENCE, PRODUCT, DIVISION, FACTORIAL, POWER, SQUARE ROOT, sINE, COSINE, TAN, etc. 
   
                   
 It is equipped with a special feature to calculate the sum of all numbers till the last input.
