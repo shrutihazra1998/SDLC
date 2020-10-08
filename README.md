@@ -1,18 +1,15 @@
 The advanced scientific calculator performs various operations: 
-calculating the-> sum
-                  differnce
-                  product
-                  division
-                  factorial
-                  power
-                  square root
-                  sine
-                  cosine
-                  tan, etc.
-    - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+calculating the-> *sum
+                  *differnce
+                  *product
+                  *division
+                  *factorial
+                  *power
+                  *square root
+                  *sine
+                  *cosine
+                  *tan, etc.
+  
                   
 It is equipped with a special feature to calculate the sum of all numbers till the last input.
 ![C/C++ CI](https://github.com/99002643/SDLC/workflows/C/C++%20CI/badge.svg)
