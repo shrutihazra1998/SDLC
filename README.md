@@ -1,14 +1,14 @@
 The advanced scientific calculator performs various operations: 
-calculating the-> *sum
-                  *differnce
-                  *product
-                  *division
-                  *factorial
-                  *power
-                  *square root
-                  *sine
-                  *cosine
-                  *tan, etc.
+calculating the->  * sum
+                  * differnce
+                  * product
+                  * division
+                  * factorial
+                  * power
+                  * square root
+                  * sine
+                  * cosine
+                  * tan, etc.
   
                   
 It is equipped with a special feature to calculate the sum of all numbers till the last input.
