@@ -5,6 +5,8 @@ calculating the-> SUM, DIFFERENCE, PRODUCT, DIVISION, FACTORIAL, POWER, SQUARE R
   
                   
 It is equipped with a special feature to calculate the sum of all numbers till the last input.
+
+
 ![C/C++ CI](https://github.com/99002643/SDLC/workflows/C/C++%20CI/badge.svg)
 ![cppcheck-action](https://github.com/99002643/SDLC/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/99002643/SDLC/workflows/Unit%20testing/badge.svg)
